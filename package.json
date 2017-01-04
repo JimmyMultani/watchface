@@ -1,0 +1,29 @@
+{
+    "author": "Jimmy Multani",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "5bb2e6f3-3602-46ef-87f5-33c6e03555f7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
